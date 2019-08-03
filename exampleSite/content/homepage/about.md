@@ -1,9 +1,11 @@
 ---
-title: 'Our Difference'
+title: 'Who We Are'
 weight: 2
 background: ''
 button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Recognise our faces to get more welfare packs!
+
+((_please come collect your welfare packs......_))

@@ -1,20 +1,16 @@
 ---
-title: 'Accounting'
+title: 'P and VPs'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
+heroHeading: 'P and VPs'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
-
-## Ne verba patulosque numen vix libet
+Top of the Food Chain
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
