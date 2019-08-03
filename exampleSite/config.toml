@@ -1,4 +1,4 @@
-baseURL = "nigelnnk.github.io/hugo-hero-theme"
+baseURL = ""
 languageCode = "en-us"
 title = "Chemical Sciences Society"
 themesDir = "../.."
