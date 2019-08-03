@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chemical Sciences Society</title>
+    <link>nigelnnk.github.io/hugo-hero-theme/pages/</link>
+    <description>Recent content in Pages on Chemical Sciences Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
+    
+	<atom:link href="nigelnnk.github.io/hugo-hero-theme/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>nigelnnk.github.io/hugo-hero-theme/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>nigelnnk.github.io/hugo-hero-theme/about/</guid>
+      <description> No Limits, other than budget Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+ </description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>nigelnnk.github.io/hugo-hero-theme/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>nigelnnk.github.io/hugo-hero-theme/history/</guid>
+      <description> About Heading </description>
+    </item>
+    
+  </channel>
+</rss>
