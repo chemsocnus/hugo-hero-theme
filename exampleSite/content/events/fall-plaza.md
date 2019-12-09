@@ -3,8 +3,8 @@ title: 'Chemistry Night'
 date: 2018-11-18T12:33:46+10:00
 draft: false
 weight: 1
-heroHeading: 'Chemistry Night'
-heroSubHeading: 'Celebrating the start of working life :"('
+heroHeading: 'Fall Plaza'
+heroSubHeading: 'Revitalising a public space in Spain.'
 heroBackground: 'work/work1.jpg'
 thumbnail: 'work/work1-thumbnail.jpg'
 images: ['https://source.unsplash.com/random/400x600/?nature',

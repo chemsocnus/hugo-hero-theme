@@ -9,12 +9,10 @@ heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'
 ---
 
-~~Lol poor things....~~
+Lol poor things....
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
 lassavit nihil oracula exiguo ligatis.
-
-![hello](https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/60458912_2345847319004902_5522109722427129856_n.jpg?_nc_cat=101&_nc_ohc=2ZaJpiaHRYYAQlbQSI5UCTJcHZbj1ndlv4sGGPOEZ6KzfyfRmYf-7QhDg&_nc_ht=scontent-sin6-1.xx&oh=071eeaaf5d4fa0be8d608bb350ff6510&oe=5E74021F)
 
 ## Novis hunc qua erat caecisque
 
