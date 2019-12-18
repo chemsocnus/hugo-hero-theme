@@ -8,7 +8,12 @@
   </url>
   
   <url>
-    <loc>/hugo-hero-theme/structure/accounting/</loc>
+    <loc>/hugo-hero-theme/structure/pandvps/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-hero-theme/structure/admin/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -18,8 +23,28 @@
   </url>
   
   <url>
+    <loc>/hugo-hero-theme/structure/publicity/</loc>
+    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/hugo-hero-theme/events/cargo-terminal/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-hero-theme/structure/welfare/</loc>
+    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-hero-theme/structure/marketing/</loc>
+    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hugo-hero-theme/structure/projects/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
@@ -36,26 +61,6 @@
     <loc>/hugo-hero-theme/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/hugo-hero-theme/structure/mergers/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-hero-theme/structure/welfare/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-hero-theme/structure/business-sales/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/hugo-hero-theme/structure/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
   <url>
