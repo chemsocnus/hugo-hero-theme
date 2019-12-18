@@ -13,4 +13,4 @@ heroBackground: 'services/publicity.png'
 
 Want to find out more about the events organised by CSS? Check out all the posters designed and follow us on our social media accounts - these are all managed by Publicity! We are the team behind design and creativity and we aim to reach out to all the chemistry students and to keep everyone updated!
 
-![People in Publicity](/services/publicity-people.png)
+![People of Publicity](/hugo-hero-theme/services/publicity-people.png)
