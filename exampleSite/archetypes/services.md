@@ -10,8 +10,6 @@ heroSubHeading: 'Services that grow with your business'
 heroBackground: 'services/service1.jpg'
 ---
 
-Poop. 
-
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.

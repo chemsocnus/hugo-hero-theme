@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>People on Chemical Sciences Society</title>
-    <link>/hugo-hero-theme/structure/</link>
+    <link>/structure/</link>
     <description>Recent content in People on Chemical Sciences Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="/hugo-hero-theme/structure/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/structure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>P and VPs</title>
-      <link>/hugo-hero-theme/structure/pandvps/</link>
+      <link>/structure/pandvps/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/pandvps/</guid>
+      <guid>/structure/pandvps/</guid>
       <description>The President and Vice Presidents are responsible for leading the normal operations of the committee. They oversee respective departments to ensure that activities and events were planned and executed in a timely manner. They chair meetings and make critical decisions to ensure that the goals of the management committee are achieved.</description>
     </item>
     
     <item>
       <title>Admin</title>
-      <link>/hugo-hero-theme/structure/admin/</link>
+      <link>/structure/admin/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/admin/</guid>
+      <guid>/structure/admin/</guid>
       <description>We are the people behind the scenes, who meticulously take care of various details, quantities and communications! We believe in running efficiently to help all other departments keep up with their work.</description>
     </item>
     
     <item>
       <title>Publicity</title>
-      <link>/hugo-hero-theme/structure/publicity/</link>
+      <link>/structure/publicity/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/publicity/</guid>
+      <guid>/structure/publicity/</guid>
       <description>Want to find out more about the events organised by CSS? Check out all the posters designed and follow us on our social media accounts - these are all managed by Publicity! We are the team behind design and creativity and we aim to reach out to all the chemistry students and to keep everyone updated!</description>
     </item>
     
     <item>
       <title>Welfare</title>
-      <link>/hugo-hero-theme/structure/welfare/</link>
+      <link>/structure/welfare/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/welfare/</guid>
+      <guid>/structure/welfare/</guid>
       <description>HEYY! Our marvelous welfare committee consists of 9 CARING and PASSIONATE members who aims to make your time in NUS chemistry an enjoyable one!! Year 1s GET READY, your welfare tea/dinner will be coming soon! Together as a committee, we will pack all chemistry students at least 1 welfare pack every AY! Email us on what you guys would like to see in your welfare pack and maybe it would magically appear in this AY’s pack :^)</description>
     </item>
     
     <item>
       <title>Marketing</title>
-      <link>/hugo-hero-theme/structure/marketing/</link>
+      <link>/structure/marketing/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/marketing/</guid>
+      <guid>/structure/marketing/</guid>
       <description>Marketing: the people who find you these cool prizes behind our giveaways, and the good stuff in your welfare packs!! :D</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/hugo-hero-theme/structure/projects/</link>
+      <link>/structure/projects/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/hugo-hero-theme/structure/projects/</guid>
+      <guid>/structure/projects/</guid>
       <description>We are the main people in charge of the various events you see in our events calendar! Join us in having fun from preparing games for orientation to creating a meaningful farewell during Chemistry Night.</description>
     </item>
     

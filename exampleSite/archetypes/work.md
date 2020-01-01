@@ -9,8 +9,6 @@ heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
 ---
 
-Nopenouser. 
-
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
