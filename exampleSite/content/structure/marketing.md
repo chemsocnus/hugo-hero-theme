@@ -10,11 +10,6 @@ heroSubHeading: ''
 heroBackground: 'services/service1.jpg'
 ---
 
-$$$
-
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_.
+Marketing: the people who find you these cool prizes behind our giveaways, and the good stuff in your welfare packs!! :D
 
 ![People of Marketing](/hugo-hero-theme/marketing-people.png)

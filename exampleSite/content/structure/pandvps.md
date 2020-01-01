@@ -11,3 +11,5 @@ heroBackground: 'services/service.jpg'
 ---
 
 The President and Vice Presidents are responsible for leading the normal operations of the committee. They oversee respective departments to ensure that activities and events were planned and executed in a timely manner. They chair meetings and make critical decisions to ensure that the goals of the management committee are achieved.
+
+![Our P and VPs](/hugo-hero-theme/services/pandvps-people.jpg)

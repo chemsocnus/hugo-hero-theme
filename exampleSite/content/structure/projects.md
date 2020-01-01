@@ -10,10 +10,6 @@ heroSubHeading: ''
 heroBackground: 'services/service2.jpg'
 ---
 
-~~Lol poor things....~~
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We are the main people in charge of the various events you see in our events calendar! Join us in having fun from preparing games for orientation to creating a meaningful farewell during Chemistry Night.
 
 ![People of Projects](/hugo-hero-theme/services/projects-people.png)

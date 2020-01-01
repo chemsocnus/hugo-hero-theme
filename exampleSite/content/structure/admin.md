@@ -10,10 +10,6 @@ heroSubHeading: ''
 heroBackground: 'services/admin.png'
 ---
 
-Details, details, details....
-
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+We are the people behind the scenes, who meticulously take care of various details, quantities and communications! We believe in running efficiently to help all other departments keep up with their work.  
 
 ![People of Admin](/hugo-hero-theme/services/admin-people.png)

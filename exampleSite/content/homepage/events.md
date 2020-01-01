@@ -6,4 +6,4 @@ button: 'Our Events'
 buttonLink: 'events'
 ---
 
-Look at the extremely large number of events we have to organise!!!!!!!!!!!
+Chemical Sciences Society has a jam-packed schedule of events for most of the year. Here are our notable events, with their descriptions and photographs!  
