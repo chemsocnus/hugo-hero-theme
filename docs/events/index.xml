@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past Events on Chemical Sciences Society</title>
-    <link>/events/</link>
+    <link>/hugo-hero-theme/events/</link>
     <description>Recent content in Past Events on Chemical Sciences Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/hugo-hero-theme/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chemistry Night</title>
-      <link>/events/fall-plaza/</link>
+      <link>/hugo-hero-theme/events/fall-plaza/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/fall-plaza/</guid>
+      <guid>/hugo-hero-theme/events/fall-plaza/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
     
     <item>
       <title>Welfare Lunch</title>
-      <link>/events/modern-hospital/</link>
+      <link>/hugo-hero-theme/events/modern-hospital/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/modern-hospital/</guid>
+      <guid>/hugo-hero-theme/events/modern-hospital/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
     
     <item>
       <title>Chemistry Freshmen Orientation Camp</title>
-      <link>/events/chemistryfoc/</link>
+      <link>/hugo-hero-theme/events/chemistryfoc/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/chemistryfoc/</guid>
+      <guid>/hugo-hero-theme/events/chemistryfoc/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
