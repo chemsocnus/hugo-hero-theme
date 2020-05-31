@@ -1,4 +1,4 @@
-baseURL = "chemsocnus.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "Chemical Sciences Society"
 themesDir = "../.."
