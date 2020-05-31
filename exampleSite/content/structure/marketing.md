@@ -12,4 +12,4 @@ heroBackground: 'services/service1.jpg'
 
 Marketing: the people who find you these cool prizes behind our giveaways, and the good stuff in your welfare packs!! :D
 
-![People of Marketing](/hugo-hero-theme/marketing-people.png)
+![People of Marketing](/services/marketing-people.png)

@@ -1,9 +1,9 @@
 ---
-title: 'Fun And Exciting'
+title: 'Events with CSS'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/events.png'
 button: 'Our Events'
 buttonLink: 'events'
 ---
 
-Chemical Sciences Society has a jam-packed schedule of events for most of the year. Here are our notable events, with their descriptions and photographs!  
+Chemical Sciences Society has a jam-packed schedule of events for most of the year. This is our showcase of the notable events we have played a part in, reaching students, faculty and the general public.

@@ -5,26 +5,12 @@
 {{ define "main" }}
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
-<div id="home" class="container pt-8 pb-8 pt-md-10 pb-md-10">
-  <div class="row justify-content-center">
-    {{ range .Site.Data.features }}
-    <div class="col-12 col-md-6 col-lg-4 mb-2">
-      <div class="feature">
-        {{ if .image }}<div class="feature-image"><img alt="{{ .title }} logo" src="{{ $.Site.BaseURL }}{{ .image }}" /></div> {{ end }}
-        <h2 class="feature-title">{{ .title }}</h2>
-        <div class="feature-content">{{ .description }}</div>
-      </div>
-    </div>
-    {{end}}
-  </div>
-</div>
-
-{{ .Content }}
+<font color="#FFFFFF">{{ .Content }}</font>
 
 <div class="container">
   <div class="row">
     <div class="col-12 col-md-8">
-      <h4 class="mt-4">Annual Event Calendar</h4>
+      <h4 class="mt-4">Annual Events Calendar</h4>
       <table class="table table-sm opening-hours-table">
         <tr>
           <td class="day font-weight-bold">February</td>

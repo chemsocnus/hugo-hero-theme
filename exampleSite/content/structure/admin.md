@@ -12,4 +12,4 @@ heroBackground: 'services/admin.png'
 
 We are the people behind the scenes, who meticulously take care of various details, quantities and communications! We believe in running efficiently to help all other departments keep up with their work.  
 
-![People of Admin](/hugo-hero-theme/services/admin-people.png)
+![People of Admin](/services/admin-people.png)
