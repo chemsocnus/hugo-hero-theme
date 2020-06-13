@@ -5,7 +5,7 @@
 {{ define "main" }}
 {{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
-<font color="#FFFFFF">{{ .Content }}</font>
+{{ .Content }}
 
 <div class="container">
   <div class="row">

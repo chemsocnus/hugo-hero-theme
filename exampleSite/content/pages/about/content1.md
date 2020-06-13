@@ -1,7 +1,7 @@
 ---
 title: 'About Content 1'
 date: 2018-12-06T09:29:16+10:00
-background: '/aboutus/joinus.png'
+background: '/aboutus/events.png'
 button: ''
 ---
 
