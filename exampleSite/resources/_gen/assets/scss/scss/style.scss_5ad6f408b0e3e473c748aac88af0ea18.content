@@ -6014,6 +6014,7 @@ ul.social {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
+  background-position: center;
   background-color: #1c3ed3;
   height: 400px;
   position: relative;
